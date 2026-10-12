@@ -31,10 +31,10 @@ layers:
   - ','
   - .
   - {t: /, h: RCTRL}
-  - {t: LEFT SHIFT, h: LEFT GUI}
-  - {t: LEFT ALT, h: TAB}
+  - {t: LEFT GUI, h: LEFT SHIFT}
+  - {t: TAB, h: LEFT ALT}
   - {t: LANGUAGE 2, h: '6'}
-  - {t: LANGUAGE 1, h: MOUSE}
+  - number
   - {t: SPACE, h: allow}
   - BACKSPACE
   - {t: ENTER, h: synbols}
@@ -78,7 +78,7 @@ layers:
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
-  MOUSE:
+  number:
   - '-'
   - '7'
   - '8'
