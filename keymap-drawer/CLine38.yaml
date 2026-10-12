@@ -34,7 +34,7 @@ layers:
   - {t: LEFT GUI, h: LEFT SHIFT}
   - {t: TAB, h: LEFT ALT}
   - {t: LANGUAGE 2, h: '6'}
-  - number
+  - {t: LANG1, h: number}
   - {t: SPACE, h: allow}
   - BACKSPACE
   - {t: ENTER, h: synbols}
